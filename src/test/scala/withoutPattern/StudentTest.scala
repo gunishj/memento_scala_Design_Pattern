@@ -1,3 +1,6 @@
+package withoutPattern
+
+import Memento.withoutPattern.Student
 import org.scalatest.FunSuite
 
 class StudentTest extends FunSuite {

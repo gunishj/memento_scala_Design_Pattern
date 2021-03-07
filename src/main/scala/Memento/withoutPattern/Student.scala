@@ -1,3 +1,5 @@
+package Memento.withoutPattern
+
 class Student() {
   var nameVar :String="Empty"
   var MarksVar :Int=0;

@@ -1,3 +1,4 @@
+package Memento.withoutPattern
 
 object main_student {
   def main(args: Array[String]): Unit = {
@@ -27,4 +28,5 @@ var a : Student = new Student
 
 
 
-  }}
+  }
+}
